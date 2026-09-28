@@ -82,6 +82,8 @@ jupyter notebook Social_Media_Engagement_Analytics.ipynb
 * **Interactive Visualization Engine:** Plotly Express
 * **Environment:** Jupyter Notebook / Google Colab
 
+---
+
 ## 🔬 Core Analysis & Key Insights
 
 The project utilizes a 4-tier analytical framework to turn raw data into strategic execution:
@@ -114,6 +116,8 @@ The project utilizes a 4-tier analytical framework to turn raw data into strateg
   * Utilize **Music/Audio** formats to maximize user watch-time retention metrics.
   * Benchmark **Tech** content to ensure a reliable balance between steady likes and shared networks.
 * **Resource Optimization:** Discontinue spending creative hours designing device-specific structural formats or strictly timing weekend publication hour thresholds. The data proves platform audiences interact uniformly across all days and devices.
+
+---
 
 ### 🏁 Conclusion
 
